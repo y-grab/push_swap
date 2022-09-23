@@ -20,3 +20,5 @@ To do so you have the following operations at your disposal:
 **rra** (reverse rotate a): Shift down all elements of stack a by 1. The last element becomes the first one.  
 **rrb** (reverse rotate b): Shift down all elements of stack b by 1. The last element becomes the first one.  
 **rrr** : **rra** and **rrb** at the same time.  
+
+For more information see [subject](https://github.com/y-grab/push_swap/blob/main/subject/push_swap_subject.pdf)
